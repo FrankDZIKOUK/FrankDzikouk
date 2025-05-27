@@ -20,7 +20,7 @@ Collaborated on a project at École Polytechnique to quantify extreme risks in u
 - **Key Insight**: Adaptive splitting methods outperformed importance sampling for symmetric portfolios, enhancing rare event estimation.
 
 ### [Coprime Integers and Cramér’s Conjecture](https://github.com/your-username/coprime-cramer-project)
-Explored the probability of two integers being coprime and simulated Cramér’s conjecture on prime gaps. We proved that the probability of two integers in \([1, n]\) being coprime approximates \( \frac{6}{\pi^2} + O\left(\frac{\ln n}{n}\right) \) using Möbius inversion and inclusion-exclusion. Additionally, we simulated prime gaps to validate \( \limsup_{n} \frac{\mathfrak{p}_{n+1} - \mathfrak{p}_n}{\log(\mathfrak{p}_n)^2} = 1 \).
+Explored the probability of two integers being coprime and simulated Cramér’s conjecture on prime gaps.
 
 - **Technologies**: Python, NumPy, Matplotlib, SciPy
 - **Key Contribution**: Implemented uniform random sampling and prime gap simulations, visualizing distributions to confirm theoretical results.

@@ -1,4 +1,4 @@
-# Hello, I'm Frank Dzikouk! 👋
+# Hello, I'm Frank DZIKOUK! 👋
 
 I'm a passionate quantitative finance student with a Bachelor’s in Mathematics, currently pursuing my studies at École Polytechnique. My interests lie at the intersection of mathematics and quantitative finance, where I enjoy tackling complex problems with rigorous analysis and computational tools. Welcome to my GitHub, where I share projects that reflect my academic journey and enthusiasm for applied mathematics!
 

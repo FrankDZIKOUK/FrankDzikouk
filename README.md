@@ -8,7 +8,7 @@ I'm a passionate quantitative finance student with a Bachelor’s in Mathematics
   - first year of a Master's degree in mathematic Analysis
   - Current student at École Polytechnique
 - 💡 **Interests**: Quantitative finance, stochastic processes, numerical simulations
-- 🛠 **Skills**: Python (NumPy, SciPy, Matplotlib), Jupyter Notebooks, stochastic modeling, Monte Carlo methods, LaTeX
+- 🛠 **Skills**: Python (Pandas, NumPy, SciPy, Matplotlib), Jupyter Notebooks, stochastic modeling, Monte Carlo methods, LaTeX
 - 🌟 **Goal**: To leverage mathematical modeling and computational techniques to solve real-world financial challenges
 
 ## 🚀 Featured Projects
